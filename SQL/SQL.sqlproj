@@ -58,12 +58,16 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="BasicSelect" />
+    <Folder Include="AdvancedSelect" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicSelect\Japanese Cities%27 Attributes.sql" />
     <None Include="BasicSelect\Higher Than 75 Marks.sql" />
     <None Include="BasicSelect\Employee Names.sql" />
     <None Include="BasicSelect\Employee Salaries.sql" />
+    <None Include="AdvancedSelect\Type of Triangle.sql" />
+    <None Include="AdvancedSelect\The PADS.sql" />
+    <None Include="AdvancedSelect\Occupations.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicSelect\Japanese Cities%27 Names.sql" />
