@@ -68,6 +68,7 @@
     <None Include="AdvancedSelect\Type of Triangle.sql" />
     <None Include="AdvancedSelect\The PADS.sql" />
     <None Include="AdvancedSelect\Occupations.sql" />
+    <None Include="AdvancedSelect\Binary Tree Nodes.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicSelect\Japanese Cities%27 Names.sql" />
