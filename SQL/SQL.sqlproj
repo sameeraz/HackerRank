@@ -69,6 +69,9 @@
     <None Include="AdvancedSelect\The PADS.sql" />
     <None Include="AdvancedSelect\Occupations.sql" />
     <None Include="AdvancedSelect\Binary Tree Nodes.sql" />
+    <None Include="AdvancedSelect\New Companies.sql" />
+    <None Include="AdvancedSelect\Revising Aggregations - The Count Function.sql" />
+    <None Include="AdvancedSelect\Revising Aggregations - The Sum Function.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicSelect\Japanese Cities%27 Names.sql" />
