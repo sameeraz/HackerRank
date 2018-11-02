@@ -59,6 +59,7 @@
     <Folder Include="Properties" />
     <Folder Include="BasicSelect" />
     <Folder Include="AdvancedSelect" />
+    <Folder Include="Aggregation" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicSelect\Japanese Cities%27 Attributes.sql" />
@@ -120,5 +121,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicSelect\Weather Observation Station 9.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Aggregation\Average_Population.sql" />
+    <Build Include="Aggregation\Japan_Population.sql" />
+    <Build Include="Aggregation\Population_Density_Difference.sql" />
+    <Build Include="Aggregation\Revising Aggregations_Averages.sql" />
+    <Build Include="Aggregation\The_Blunder.sql" />
+    <Build Include="Aggregation\Top Earners.sql" />
   </ItemGroup>
 </Project>
